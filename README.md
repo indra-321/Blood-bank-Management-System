@@ -32,7 +32,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 4. 'sql' contains the database file that has to be imported.
 
 ## :family_man_woman_boy_boy: Team:
-- Himanshu Singh - [Himanshu](https://github.com/xxxxxx)
+- Himanshu Singh - [Himanshu](https://github.com/himanshu8084)
 - Indrajeet kumar - [Indra](https://github.com/indra-321)
 
 
